@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto Mono', monospace; 
+    background-image: url('../images/pexels-lukas-hartmann-880675.jpg');
+}
+
+
+  footer{
+
+    text-align: center;
+    color: blanchedalmond;
+    margin-top: 2em;
+}
+footer>div>a{
+    color:blanchedalmond;
+}
